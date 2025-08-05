@@ -14,7 +14,7 @@
 | Aloe vera|
 | Pothos   |
 
-<img src="https://pixabay.com/de/photos/palmen-tropisch-sommer-b%C3%A4ume-natur-3619180/" alt="Photo of plant" >
+<img src="https://mungfali.com/page/8E1974E688C1DC1104070EFC4B422656D3CED988/sommer,_tropisch,_palmen,_strand,_meer_3840x2160_uhd_4k_" alt="Photo of plant" >
 <!--
 **MaiGuenther/MaiGuenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
