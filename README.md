@@ -14,7 +14,7 @@
 | Aloe vera|
 | Pothos   |
 
-<img "https://de.best-wallpaper.net/Beach-palm-trees-sea-tropical-summer_wallpapers.html" alt="Photo of plant" >
+<img src="https://de.best-wallpaper.net/Beach-palm-trees-sea-tropical-summer_wallpapers.html" alt="Photo of plant" >
 <!--
 **MaiGuenther/MaiGuenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
