@@ -5,10 +5,11 @@
 😄 Pronouns: she/her <br/>
 <br/>
 ⚡ Currently: Internship (freenet AG)<br/>
+🙇 leaning git... <br/> 
 <br/>
 🌱🐧 Love for plants and animals!
 
-🚶Wandering in nature
+🚶Wandering in nature 
 
 | *Top 3 plants* |
 | ---------- |
