@@ -2,16 +2,16 @@
 
 😄 Pronouns: she/her <br/>
 <br/>
----
+‎---
 <br/>
 ⚡ Currently: Internship (freenet AG)
 <br/>
----
+‎---
 <br/>
 🌱 Love for plants and animals!
 <br/>
 <br/>
----
+‎‎---
 <br/>
 | Top 3 plants |
 | ---------- |
