@@ -1,8 +1,10 @@
 # *Me:* 
 
--😄 Pronouns: she/her <br/>
+😄 Pronouns: she/her <br/>
 <br/>
--🌱 Love for plants and animals!
+⚡ Currently: Internship (freenet AG)
+<br/>
+🌱 Love for plants and animals!
 <br/>
 <br/>
 | Top 3 plants |
@@ -10,8 +12,7 @@
 | Sunflower |
 | Aloe vera|
 | Pothos   |
-<br/>
-⚡ Currently: Internship (freenet AG)
+
 <!--
 **MaiGuenther/MaiGuenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
