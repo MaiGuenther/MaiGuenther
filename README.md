@@ -1,4 +1,4 @@
-<img src="gaenseblumeklein.jpg" width="10px" 
+<img src="gaenseblumeklein.jpg" width="10px">
 
 # *Me:* 
 
