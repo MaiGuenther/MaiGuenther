@@ -1,6 +1,6 @@
-# Me: 
+# *Me:* 
 
--😄 Pronouns: she/her
+-😄 Pronouns: she/her <br/>
 <br/>
 -🌱 love for plants and animal 
 
