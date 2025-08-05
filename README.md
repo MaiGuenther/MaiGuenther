@@ -1,6 +1,6 @@
 # *Me:* 
 
-😄 Pronouns: she/her
+😄 Pronouns: she/her <br/>
 <br/>
 ⚡ Currently: Internship (freenet AG)<br/>
 <br/>
