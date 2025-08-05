@@ -2,14 +2,16 @@
 
 -😄 Pronouns: she/her <br/>
 <br/>
--🌱 love for plants and animal 
-
+-🌱 Love for plants and animals!
+<br/>
+<br/>
 | Top 3 plants |
 | ---------- |
 | Sunflower |
 | Aloe vera|
 | Pothos   |
-
+<br/>
+⚡ Currently: Internship (freenet AG)
 <!--
 **MaiGuenther/MaiGuenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
