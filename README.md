@@ -6,11 +6,13 @@
 <br/>
 ⚡ Currently: Internship (freenet AG)<br/>
 <br/>
-🌱 Love for plants and animals!
+🌱🐧 Love for plants and animals!
+
+🚶Wandering in nature
 
 # 
 
-| Top 3 plants |
+| <p style ="orange"> Top 3 plants </p> |
 | ---------- |
 | Sunflower |
 | Aloe vera|
