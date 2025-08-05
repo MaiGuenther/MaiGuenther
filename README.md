@@ -1,4 +1,4 @@
-<img src="blume.jpg" border="5" width="90%">
+<img src="blume.jpg" border="5px" width="90%">
 
 # *Me:* 
 
