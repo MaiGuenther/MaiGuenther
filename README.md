@@ -1,4 +1,6 @@
-## Hi there 👋
+😄 Pronouns: she/her 
+🌱 love for plants and animal 
+
 
 <!--
 **MaiGuenther/MaiGuenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
