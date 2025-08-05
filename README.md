@@ -2,7 +2,7 @@
 
 😄 Pronouns: she/her
 <br/>
-⚡ Currently: Internship (freenet AG)
+⚡ Currently: Internship (freenet AG)<br/>
 <br/>
 🌱 Love for plants and animals!
 
