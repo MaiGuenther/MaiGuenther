@@ -12,7 +12,7 @@
 
 # 
 
-| <p style ="orange"> Top 3 plants </p> |
+| <p style="orange;"> Top 3 plants </p> |
 | ---------- |
 | Sunflower |
 | Aloe vera|
