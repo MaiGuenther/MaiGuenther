@@ -1,4 +1,4 @@
-<img src="18386.jpg" width="500">
+<img src="18386.jpg" width="250">
 
 # *Me:* 
 
@@ -9,8 +9,6 @@
 🌱🐧 Love for plants and animals!
 
 🚶Wandering in nature
-
-(
 
 | *Top 3 plants* |
 | ---------- |
