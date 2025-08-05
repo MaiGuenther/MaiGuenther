@@ -1,6 +1,6 @@
 # *Me:* 
 
-😄 Pronouns: she/her <br/>
+😄 Pronouns: she/her
 
 ‎---
 
