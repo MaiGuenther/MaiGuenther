@@ -1,23 +1,18 @@
 # *Me:* 
 
 😄 Pronouns: she/her
-
-‎***
-
+<br/>
 ⚡ Currently: Internship (freenet AG)
 <br/>
-‎---
-<br/>
 🌱 Love for plants and animals!
-<br/>
-<br/>
-‎‎---
-<br/>
-| Top 3 plants |
-| ---------- |
-| Sunflower |
-| Aloe vera|
-| Pothos   |
+
+‎‎-----------------------
+
+   | Top 3 plants |
+   | ---------- |
+   | Sunflower |
+   | Aloe vera|
+   | Pothos   |
 
 <!--
 **MaiGuenther/MaiGuenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
