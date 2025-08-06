@@ -5,7 +5,7 @@
 😄 Pronouns: she/her <br/>
 <br/>
 ⚡ Currently: Internship (freenet AG)<br/>
-🙇 and leaning Git <br/> 
+🙇 and leaning Git nad HTML <br/> 
 <br/>
 🌱🐧 Love for plants and animals!
 
